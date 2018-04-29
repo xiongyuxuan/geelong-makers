@@ -1,66 +1,98 @@
-body {
-	background-color:lightblue;
+.black {
+	/*background-color:lightblue;*/
+	 background-image: url("img/bg.jpg");
+	 repeat: no-repeat;
+    /*background-attachment:fixed;
+	 background-size: cover;
+    -moz-background-size: cover;*/
+    -webkit-background-size: cover;
 }
 
-nav {
-	width:1000px;
-	height:50px;
-	text-align:center;
-	line-height:50px;
-	margin:auto;
-	background-color:white;
-	/*border: 2px solid black;*/
-	border-radius: 8px;
+.product{
+	float: left;
+	width:240px;
+	height:250px;
+	
 }
-
-nav li {
-	display:inline;
+.productDesc{
+	margin-left:250px;
 }
-
-nav li a {
-	padding-left:20px;
-	padding-right:20px;
-	text-decoration:none;
-	font-size:22px;
+.cart{
+	width:120px;
+	height:140px;
 }
-
-nav li a {
-	text-decoration:none;
-	font-size:22px;
-	color:#000000;	
-	font-family:"Georgia",arial,sans-serif;
-	/*changing padding to bottom no eddect*/
-	padding-right:30px; 
-}
-
-nav li a:hover {
-	color:green;
-	text-decoration: underline;
-}
-
-form{
-	border: 1px solid green;
-	width: 300px;
-	height: 400px;
-	margin-left:auto;
-	margin-right:auto;
-	margin-top: auto;
-	margin-bottom: auto;
+.cartDesc{
+	margin-left:250px;
 	
 }
 
-#leftbox {
-	height:800px;
-	width:400px;
-	border:solid 2px #000000;
-	float:left;
-	margin-left:300px;
+form {
+    position: relative;
+    width: 305px;
+    margin: 120px auto 0 auto;
+    text-align: center;
 }
 
-#rightbox {
-	height:800px;
-	width:850px;
-	border:solid 2px #000000;
-	float:right;
-	margin-right:300px;
+input {
+    width: 270px;
+    height: 42px;
+	line-height:42px;
+    margin-top: 25px;
+    padding: 0 15px;
+    background: #2d2d2d; /* browsers that don't support rgba */
+    *background-color:transparent;
+    background: rgba(45,45,45,.15);
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    border: 1px solid #3d3d3d; /* browsers that don't support rgba */
+    border: 1px solid rgba(255,255,255,.15);
+    -moz-box-shadow: 0 2px 3px 0 rgba(0,0,0,.1) inset;
+    -webkit-box-shadow: 0 2px 3px 0 rgba(0,0,0,.1) inset;
+    box-shadow: 0 2px 3px 0 rgba(0,0,0,.1) inset;
+    font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #fff;
+    text-shadow: 0 1px 2px rgba(0,0,0,.1);
+    -o-transition: all .2s;
+    -moz-transition: all .2s;
+    -webkit-transition: all .2s;
+    -ms-transition: all .2s;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: 700;
+    text-shadow: 0 1px 4px rgba(0,0,0,.2);
+}
+
+button {
+    cursor: pointer;
+    width: 300px;
+    height: 44px;
+    margin-top: 25px;
+    padding: 0;
+    background: #ef4300;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    border: 0px;
+    -moz-box-shadow:
+        0 15px 30px 0 rgba(255,255,255,.25) inset,
+        0 2px 7px 0 rgba(0,0,0,.2);
+    -webkit-box-shadow:
+        0 15px 30px 0 rgba(255,255,255,.25) inset,
+        0 2px 7px 0 rgba(0,0,0,.2);
+    box-shadow:
+        0 15px 30px 0 rgba(255,255,255,.25) inset,
+        0 2px 7px 0 rgba(0,0,0,.2);
+    font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+    text-shadow: 0 1px 2px rgba(0,0,0,.1);
+    -o-transition: all .2s;
+    -moz-transition: all .2s;
+    -webkit-transition: all .2s;
+    -ms-transition: all .2s;
 }
