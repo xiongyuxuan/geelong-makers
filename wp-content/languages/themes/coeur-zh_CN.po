@@ -1,0 +1,919 @@
+# Translation of Themes - Coeur in Chinese (China)
+# This file is distributed under the same license as the Themes - Coeur package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-28 04:11:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - Coeur\n"
+
+#. Theme Name of the plugin/theme
+msgid "Coeur"
+msgstr "Coeur"
+
+#: framework/functions/woocommerce.php:98
+msgid "Don't have an account?"
+msgstr "没有账户？"
+
+#: framework/functions/woocommerce.php:99
+msgid "Create one now"
+msgstr "现在创建一个"
+
+#: framework/customizer/customizer-reset.php:32
+msgid "Be brave, all custom settings will be reset. This action is irreversible."
+msgstr "要勇敢，所有的自定义设置将被重置。这个动作是不可逆的。"
+
+#: woocommerce/cart/cart-shipping.php:47
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr "您提供地址后运费将会被计算。"
+
+#: framework/customizer/options/options.sections.php:60
+msgid "Fonts"
+msgstr "字体"
+
+#: framework/customizer/options/options.sections.php:53
+msgid "Posts"
+msgstr "文章设置"
+
+#: framework/customizer/options/options.sections.php:46
+msgid "Material"
+msgstr "素材"
+
+#: framework/customizer/options/options.layout.php:136
+msgid "Inner Background Color"
+msgstr "内部的背景颜色"
+
+#: framework/customizer/options/options.layout.php:87
+msgid "Style"
+msgstr "风格"
+
+#: framework/customizer/options/material/options.material.php:34
+msgid "Accent Color"
+msgstr "特殊颜色"
+
+#: framework/customizer/customizer.php:59
+msgid "Background"
+msgstr "Background"
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr "只有购买过此产品的已登录客户才可发表评论"
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Your Review"
+msgstr "您的评论"
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Very Poor"
+msgstr "很差"
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Not that bad"
+msgstr "还行"
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Average"
+msgstr "一般"
+
+#: woocommerce/single-product-reviews.php:77
+msgid "Good"
+msgstr "好"
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Perfect"
+msgstr "完美"
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Rate&hellip;"
+msgstr "评价&hellip;"
+
+#: woocommerce/single-product-reviews.php:74
+msgid "Your Rating"
+msgstr "您的评价"
+
+#: woocommerce/single-product-reviews.php:70
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr "您需要在 <a href=\"%s\">登录</a>后发表评论。."
+
+#: woocommerce/single-product-reviews.php:64
+msgid "Submit"
+msgstr "发送"
+
+#: woocommerce/single-product-reviews.php:62
+msgid "Email"
+msgstr "邮箱地址"
+
+#: woocommerce/single-product-reviews.php:57
+msgid "Leave a Reply to %s"
+msgstr "在%s上留下回复"
+
+#: woocommerce/single-product-reviews.php:42
+msgid "There are no reviews yet."
+msgstr "目前还末有评论"
+
+#: woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr "相关产品"
+
+#: woocommerce/order/tracking.php:16
+msgid " ago"
+msgstr "前"
+
+#: woocommerce/order/tracking.php:16
+msgid "and was completed"
+msgstr "并已完成"
+
+#: woocommerce/order/tracking.php:14
+msgid "ago"
+msgstr "%s前"
+
+#: woocommerce/order/tracking.php:14
+msgid "Order #%s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr "由%s创建的订单#%s状态是 &ldquo;%s&rdquo;"
+
+#: woocommerce/order/order-details-customer.php:50
+#: woocommerce/order/order-details-customer.php:59
+msgid "N/A"
+msgstr "不可用"
+
+#: woocommerce/order/order-details-customer.php:38
+msgid "Telephone:"
+msgstr "电话："
+
+#: woocommerce/order/order-details-customer.php:31
+msgid "Email:"
+msgstr "电子邮件："
+
+#: woocommerce/order/order-details-customer.php:24
+msgid "Note:"
+msgstr "备注："
+
+#: woocommerce/order/order-details-customer.php:19
+msgid "Contact Informations"
+msgstr "联系信息"
+
+#: woocommerce/order/order-details-customer.php:14
+msgid "Customer Details"
+msgstr "顾客信息"
+
+#: woocommerce/order/order-again.php:16
+msgid "Order Again"
+msgstr "再订货"
+
+#: woocommerce/order/form-tracking.php:26
+msgid "Track"
+msgstr "订单跟踪"
+
+#: woocommerce/order/form-tracking.php:23
+msgid "Email you used during checkout."
+msgstr "您结帐时使用的电子邮件 "
+
+#: woocommerce/order/form-tracking.php:23
+msgid "Billing Email"
+msgstr "账单电子邮件地址"
+
+#: woocommerce/order/form-tracking.php:22
+msgid "Found in your order confirmation email."
+msgstr "在你的电子邮件订单确认中找到。"
+
+#: woocommerce/order/form-tracking.php:22
+msgid "Order ID"
+msgstr "订单号码"
+
+#: woocommerce/order/form-tracking.php:20
+msgid "To track your order please enter your Order ID in the box below and press the \"Track\" button. This was given to you on your receipt and in the confirmation email you should have received."
+msgstr "要跟踪您的订单，请在下面的框中输入您的订单编号，然后按“追踪”按钮。订单号可以在您的收据，或是确认电子邮件中找到。"
+
+#: woocommerce/order/tracking.php:31
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr "l jS \\o\\f F Y, h:ia"
+
+#: woocommerce/order/tracking.php:25
+msgid "Order Updates"
+msgstr "订单更新"
+
+#: woocommerce/myaccount/form-lost-password.php:42
+msgid "Reset Password"
+msgstr "重置密码"
+
+#: woocommerce/myaccount/form-lost-password.php:29
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr "忘记密码了?请输入您的用户名或者电邮地址，您将会收到密码重置邮件。"
+
+#: framework/functions/woocommerce.php:80
+msgid "Sign into your account"
+msgstr "登录到您的帐户"
+
+#: framework/functions/woocommerce.php:79
+msgid "Already a member?"
+msgstr "已经是会员？"
+
+#: woocommerce/order/order-details-customer.php:56
+msgid "Shipping Address"
+msgstr "送货地址"
+
+#: woocommerce/order/order-details-customer.php:47
+msgid "Billing Address"
+msgstr "账单地址"
+
+#: woocommerce/global/form-login.php:49
+msgid "Lost your password?"
+msgstr "丢失您的密码了？"
+
+#: woocommerce/global/form-login.php:45
+msgid "Remember me"
+msgstr "请记住我"
+
+#: woocommerce/global/form-login.php:42
+msgid "Login"
+msgstr "注册"
+
+#: woocommerce/global/form-login.php:32
+msgid "Password"
+msgstr "米秒"
+
+#: woocommerce/global/form-login.php:29
+#: woocommerce/myaccount/form-lost-password.php:32
+msgid "Username or email"
+msgstr "用户名或电邮"
+
+#: woocommerce/checkout/thankyou.php:55
+msgid "Payment Method:"
+msgstr "支付方法："
+
+#: woocommerce/checkout/thankyou.php:50
+msgid "Total:"
+msgstr "合计："
+
+#: woocommerce/checkout/thankyou.php:46
+msgid "Date:"
+msgstr "日期："
+
+#: woocommerce/checkout/thankyou.php:42
+msgid "Order Number:"
+msgstr "订单号码："
+
+#: woocommerce/checkout/thankyou.php:38 woocommerce/checkout/thankyou.php:71
+msgid "Thank you. Your order has been received."
+msgstr "谢谢，您的订单已收到。"
+
+#: woocommerce/checkout/thankyou.php:30
+msgid "Pay"
+msgstr "支付"
+
+#: woocommerce/checkout/thankyou.php:26
+msgid "Please attempt your purchase again."
+msgstr "请尝试再次购买。"
+
+#: woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again or go to your account page."
+msgstr "请尝试再次购买，或到您的帐户页面。"
+
+#: woocommerce/checkout/thankyou.php:20
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction."
+msgstr "糟糕，无法处理您的订单，因为发起银行/交易商拒绝了您的交易。"
+
+#: woocommerce/checkout/review-order.php:19
+msgid "Your order"
+msgstr "您的订单"
+
+#: woocommerce/checkout/payment.php:42
+msgid "Update totals"
+msgstr "更新总计"
+
+#: woocommerce/checkout/payment.php:41
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr "由于您的浏览器不支持JavaScript，或者它被禁用，在你付款之前请确保你单击的<em>更新总计</em>按钮，如果你不这样做，你可能会支付超过上述金额。"
+
+#: woocommerce/checkout/payment.php:34
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr "很抱歉，似乎没有付款方式适用于您所在的地方。如果您需要帮助请联系我们，或希望使其他安排。"
+
+#: woocommerce/checkout/payment.php:34
+msgid "Please fill in your details above to see available payment methods."
+msgstr "请在上面填写您的详细资料以查找可用的付款方式。"
+
+#: woocommerce/checkout/form-shipping.php:58
+msgid "Additional Information"
+msgstr "附加信息"
+
+#: woocommerce/checkout/form-shipping.php:32
+msgid "Ship to a different address?"
+msgstr "送货到另一个地址?"
+
+#: woocommerce/checkout/form-pay.php:75
+msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr "很抱歉，似乎没有适用于您所在地方的付款方式。如果您需要帮助请联系我们，或希望使其他安排。"
+
+#: woocommerce/checkout/form-pay.php:33
+msgid "Totals"
+msgstr "总计"
+
+#: woocommerce/checkout/form-pay.php:32
+msgid "Qty"
+msgstr "数量"
+
+#: woocommerce/checkout/form-login.php:26
+msgid "If you have shopped with us before, please enter your details in the boxes below. If you are a new customer please proceed to the Billing &amp; Shipping section."
+msgstr "如果您之前在我们网站购物过,请在下边框内输入详细资料.如果您是一个新顾客,请继续完成帐单&amp;配送部分。"
+
+#: woocommerce/checkout/form-login.php:19
+msgid "Click here to login"
+msgstr "点此登录"
+
+#: woocommerce/checkout/form-login.php:18
+msgid "Returning customer?"
+msgstr "回头客？"
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr "点此输入您的优惠码"
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr "您有优惠券？"
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr "您必须在登录后才能结帐。"
+
+#: woocommerce/checkout/form-billing.php:53
+msgid "Create an account by entering the information below. If you are a returning customer please login at the top of the page."
+msgstr "请输入以下信息在本站注册帐号,如果您已有帐号,可以在网站的顶部登录."
+
+#: woocommerce/checkout/form-billing.php:42
+msgid "Create an account?"
+msgstr "创建一个帐户？"
+
+#: woocommerce/checkout/form-billing.php:23
+msgid "Billing Details"
+msgstr "账单详情"
+
+#: woocommerce/checkout/form-billing.php:19
+msgid "Billing &amp; Shipping"
+msgstr "搜索配送类型"
+
+#: woocommerce/checkout/cart-errors.php:22
+msgid "Return To Cart"
+msgstr "返回到购物车"
+
+#: woocommerce/checkout/cart-errors.php:18
+msgid "There are some issues with the items in your cart (shown above). Please go back to the cart page and resolve these issues before checking out."
+msgstr "您购物车中的项目有一些问题（如上所示）。请回到购物车页，并在结账之前解决这些问题。"
+
+#: woocommerce/cart/shipping-calculator.php:87
+msgid "Update Totals"
+msgstr "更新总计"
+
+#: woocommerce/cart/shipping-calculator.php:82
+msgid "Postcode / Zip"
+msgstr "邮政编码"
+
+#: woocommerce/cart/shipping-calculator.php:74
+msgid "City"
+msgstr "市"
+
+#: woocommerce/cart/shipping-calculator.php:54
+msgid "Select a state&hellip;"
+msgstr "选择地区&hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:47
+#: woocommerce/cart/shipping-calculator.php:53
+#: woocommerce/cart/shipping-calculator.php:65
+msgid "State / county"
+msgstr "地区/县"
+
+#: woocommerce/cart/shipping-calculator.php:30
+msgid "Select a country&hellip;"
+msgstr "选择国家&hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate Shipping"
+msgstr "计算运费"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:16
+msgid "Proceed to Checkout"
+msgstr "前往收银台"
+
+#: woocommerce/cart/mini-cart.php:84
+msgid "View Cart"
+msgstr "查看购物车"
+
+#: woocommerce/cart/mini-cart.php:71
+msgid "No products in the cart."
+msgstr "购物车里没有产品"
+
+#: woocommerce/cart/cross-sells.php:40
+msgid "You may be interested in&hellip;"
+msgstr "你也许还对这些有兴趣&hellip;"
+
+#: woocommerce/cart/cart.php:140
+msgid "Update Cart"
+msgstr "更新购物车"
+
+#: woocommerce/cart/cart.php:134 woocommerce/checkout/form-coupon.php:30
+msgid "Apply Coupon"
+msgstr "申请优惠券"
+
+#: woocommerce/cart/cart.php:133 woocommerce/checkout/form-coupon.php:26
+msgid "Coupon code"
+msgstr "优惠券代码"
+
+#: woocommerce/cart/cart.php:85
+msgid "Available on backorder"
+msgstr "可用的延迟发货"
+
+#: woocommerce/cart/cart.php:53 woocommerce/cart/mini-cart.php:48
+msgid "Remove this item"
+msgstr "移除本项"
+
+#: woocommerce/cart/cart.php:32
+msgid "Quantity"
+msgstr "数量"
+
+#: woocommerce/cart/cart.php:31
+msgid "Price"
+msgstr "票价"
+
+#: woocommerce/cart/cart.php:30 woocommerce/checkout/form-pay.php:31
+#: woocommerce/checkout/review-order.php:24
+msgid "Product"
+msgstr "商品"
+
+#: woocommerce/cart/cart.php:29
+msgid "Preview"
+msgstr "预览"
+
+#: woocommerce/cart/cart-totals.php:96
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgstr "注意：运费和税费估计值为%s并且将在将在结帐时更新到帐单和配送信息的基础上。"
+
+#: woocommerce/cart/cart-totals.php:93
+msgid " (taxes estimated for %s)"
+msgstr "(税费估计为 %s)"
+
+#: woocommerce/cart/cart-totals.php:81 woocommerce/cart/cart.php:33
+#: woocommerce/checkout/review-order.php:25
+#: woocommerce/checkout/review-order.php:104
+msgid "Total"
+msgstr "Total"
+
+#: woocommerce/cart/cart-totals.php:27 woocommerce/cart/mini-cart.php:79
+#: woocommerce/checkout/review-order.php:57
+msgid "Subtotal"
+msgstr "小计"
+
+#: woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr "购物车总计"
+
+#: woocommerce/cart/cart-shipping.php:49
+msgid "There are no shipping methods available. Please double check your address, or contact us if you need any help."
+msgstr "我们并未对您居住地区提供送货服务，或是您的地址有错误。请重新仔细检查您的地址，如果您需要任何帮助,请与我们联系。"
+
+#: woocommerce/cart/cart-totals.php:49
+msgid "Shipping"
+msgstr "送货"
+
+#: woocommerce/cart/cart-empty.php:25
+msgid "Return To Shop"
+msgstr "返回商店"
+
+#: woocommerce/cart/cart-empty.php:21
+msgid "Your cart is currently empty."
+msgstr "您的购物车目前是空的。"
+
+#: framework/functions/woocommerce.php:261 woocommerce/cart/mini-cart.php:85
+msgid "Checkout"
+msgstr "结账"
+
+#: framework/functions/woocommerce.php:249
+msgid "Logout"
+msgstr "登出"
+
+#: framework/functions/woocommerce.php:243
+#: framework/functions/woocommerce.php:248
+#: framework/functions/woocommerce.php:255 woocommerce/checkout/thankyou.php:32
+msgid "My Account"
+msgstr "我的账户"
+
+#: framework/functions/woocommerce.php:216
+msgid "Phone *"
+msgstr "电话*"
+
+#: framework/functions/woocommerce.php:215
+#: framework/functions/woocommerce.php:226
+msgid "Email Address *"
+msgstr "电子邮件地址*"
+
+#: framework/functions/woocommerce.php:214
+#: framework/functions/woocommerce.php:225
+msgid "Country *"
+msgstr "国家 *"
+
+#: framework/functions/woocommerce.php:213
+msgid "State *"
+msgstr "省份 *"
+
+#: framework/functions/woocommerce.php:212
+#: framework/functions/woocommerce.php:224
+msgid "Postcode / Zip *"
+msgstr "邮编 *"
+
+#: framework/functions/woocommerce.php:211
+#: framework/functions/woocommerce.php:223
+msgid "Town / City *"
+msgstr "城市/镇 *"
+
+#: framework/functions/woocommerce.php:210
+#: framework/functions/woocommerce.php:222
+msgid "Address Line 2"
+msgstr "地址行2"
+
+#: framework/functions/woocommerce.php:209
+#: framework/functions/woocommerce.php:221
+msgid "Address *"
+msgstr "地址 *"
+
+#: framework/functions/woocommerce.php:208
+#: framework/functions/woocommerce.php:220
+msgid "Company Name"
+msgstr "公司名称"
+
+#: framework/functions/woocommerce.php:207
+#: framework/functions/woocommerce.php:219
+msgid "Last Name *"
+msgstr "姓 *"
+
+#: framework/functions/woocommerce.php:206
+#: framework/functions/woocommerce.php:218
+msgid "First Name *"
+msgstr "名 *"
+
+#: framework/functions/woocommerce.php:194
+msgid "Passwords do not match."
+msgstr "密码不一致"
+
+#: framework/customizer/customizer-reset.php:31
+msgid "Reset"
+msgstr "重设"
+
+#: framework/customizer/options/options.sections.php:127
+msgid "Navigation"
+msgstr "导航"
+
+#: framework/customizer/customizer.php:56
+#: framework/customizer/options/flat/options.flat.php:56
+#: framework/customizer/options/material/options.material.php:116
+msgid "Navbar Link Color"
+msgstr "导航栏链接的颜色"
+
+#. Template Name of the plugin/theme
+msgid "Right Sidebar"
+msgstr "边栏在右侧"
+
+#. Template Name of the plugin/theme
+msgid "Left Sidebar"
+msgstr "边栏在左侧"
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr "全宽"
+
+#: header.php:106
+msgid "Toggle navigation"
+msgstr "切换导航"
+
+#: framework/functions/template-tags.php:265
+msgid "Read More"
+msgstr "阅读更多"
+
+#: framework/functions/template-tags.php:239
+msgid "View all posts in %s"
+msgstr "查看%s中的全部文章"
+
+#: framework/functions/template-tags.php:207
+msgid "by"
+msgstr "来自"
+
+#: framework/functions/template-tags.php:128
+msgid "Author's profile"
+msgstr "作者简介"
+
+#: framework/functions/template-tags.php:117
+msgid "Next Post"
+msgstr "下一篇文章"
+
+#: framework/functions/template-tags.php:110
+msgid "Previous Post"
+msgstr "上一篇文章"
+
+#: framework/functions/template-tags.php:104
+msgid "Show Comments"
+msgstr "显示评论"
+
+#: framework/functions/template-tags.php:66
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: framework/functions/template-tags.php:65
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: framework/functions/sidebars.php:36
+msgid "Footer Widgets 3 (right)"
+msgstr "页脚小工具3（右）"
+
+#: framework/functions/sidebars.php:27
+msgid "Footer Widgets 2 (center)"
+msgstr "页脚小工具2（中）"
+
+#: framework/functions/sidebars.php:20 framework/functions/sidebars.php:29
+#: framework/functions/sidebars.php:38
+msgid "Widgets will appear in the footer area. To hide widgetized area in the footer simply remove all widgets from Footer 1, 2 and 3"
+msgstr "小工具将出现在页脚区域。如果隐藏在页脚的小工具地区，从页脚1、2和3删除所有小工具"
+
+#: framework/functions/sidebars.php:18
+msgid "Footer Widgets 1 (left)"
+msgstr "页脚小工具1（左）"
+
+#: framework/functions/sidebars.php:11
+msgid "Main sidebar that appears on the right."
+msgstr "右侧边栏（主要）"
+
+#: framework/functions/sidebars.php:9
+msgid "Primary Sidebar"
+msgstr "主边栏"
+
+#: framework/functions/setup.php:66
+msgid "Mobile menu"
+msgstr "移动菜单"
+
+#: framework/functions/setup.php:63
+msgid "Primary Menu"
+msgstr "主要菜单"
+
+#: framework/customizer/options/options.title.php:17
+msgid "Footer Copyright"
+msgstr "页脚版权"
+
+#: framework/customizer/options/options.template.php:16
+msgid "Choose a Template"
+msgstr "选择一个模板"
+
+#: framework/customizer/options/options.sections.php:99
+msgid "Comments"
+msgstr "评论"
+
+#: framework/customizer/options/options.sections.php:91
+msgid "Page Layout"
+msgstr "页面布局"
+
+#: framework/customizer/options/options.sections.php:83
+msgid "Post Layout"
+msgstr "文章布局"
+
+#: framework/customizer/options/options.sections.php:75
+msgid "Blog Layout"
+msgstr "博客布局"
+
+#: framework/customizer/options/options.sections.php:39
+msgid "Flat"
+msgstr "平面"
+
+#: framework/customizer/options/options.sections.php:32
+msgid "Classic"
+msgstr "经典"
+
+#: framework/customizer/options/options.sections.php:26
+msgid "The template will define the overall look of your site. Customization doesn't stop here, each template comes with a unique set of options."
+msgstr "模板将定义站点的整体外观。定制不限制到这里，每个模板都有一套独特的选择。"
+
+#: framework/customizer/options/options.sections.php:24
+msgid "Template"
+msgstr "模板"
+
+#: framework/customizer/options/options.post.php:158
+#: framework/functions/template-tags.php:220
+msgid "Posted on"
+msgstr "张贴在"
+
+#: framework/customizer/options/options.post.php:64
+msgid "Do you want thumbnails to be linked to their article?"
+msgstr "您要缩略图链接到各自文章吗？"
+
+#: framework/customizer/options/options.post.php:61
+msgid "Thumbnail Link"
+msgstr "缩略图链接"
+
+#: framework/customizer/options/options.post.php:35
+msgid "Post Content"
+msgstr "发布内容"
+
+#: framework/customizer/options/options.post.php:13
+msgid "Choose the excerpt length (in words). Default is 70"
+msgstr "选择摘录长度（字）。默认值是70"
+
+#: framework/customizer/options/options.post.php:12
+msgid "Excerpt lenght"
+msgstr "摘要长度"
+
+#: framework/customizer/options/options.nav.php:43
+msgid "Menu on single post pages"
+msgstr "单文章页菜单"
+
+#: framework/customizer/options/options.nav.php:23
+msgid "Search Icon"
+msgstr "搜索图标"
+
+#: framework/customizer/options/options.logo.php:13
+#: framework/customizer/options/options.sections.php:106
+msgid "Logo"
+msgstr "徽标"
+
+#: framework/customizer/options/options.layout.php:112
+msgid "Width"
+msgstr "宽度"
+
+#: framework/customizer/options/options.layout.php:13
+#: framework/customizer/options/options.layout.php:37
+#: framework/customizer/options/options.layout.php:61
+#: framework/customizer/options/options.sections.php:12
+#: framework/customizer/options/options.sections.php:67
+msgid "Layout"
+msgstr "布局"
+
+#: framework/customizer/options/options.font.php:87
+msgid "Heading Font"
+msgstr "标题字体"
+
+#: framework/customizer/options/options.font.php:51
+msgid "Body Font"
+msgstr "主体字体"
+
+#: framework/customizer/options/options.font.php:23
+msgid "Headings"
+msgstr "标题"
+
+#: framework/customizer/options/flat/options.flat.php:35
+msgid "Navbar Background Color"
+msgstr "导航栏的背景颜色"
+
+#: framework/customizer/options/options.favicon.php:71
+msgid "Upload image to be used as bookmark icon on other Apple devices. <b>Size must be <u>76x76px</u> and format <u>.png</u></b>"
+msgstr "上传图像被用作书签图标在其他苹果设备。<b>大小必须<u>76x76px</u>和格式<u>.png</u></b>"
+
+#: framework/customizer/options/options.favicon.php:68
+msgid "Bookmark Icon"
+msgstr "书签图标"
+
+#: framework/customizer/options/options.favicon.php:53
+msgid "Upload image to be used as bookmark on iPads with retina screen. <b>Size must be <u>152x152</u> and format <u>.png</u></b>"
+msgstr "上传的图像被用来作为对视网膜屏iPad书签。<b>大小必须<u>152x152</u>和格式<u>.png</u></b>"
+
+#: framework/customizer/options/options.favicon.php:50
+msgid "Retina iPad Bookmark"
+msgstr "视网膜iPad书签"
+
+#: framework/customizer/options/options.favicon.php:35
+msgid "Upload image to be used as bookmark on iPhones with retina screen. <b>Size must be <u>120x120</u> and format <u>.png</u></b>"
+msgstr "上传的图像被用来作为对视网膜屏幕的iPhone的书签。<b>大小必须<u>120x120</u>和格式<u>.png</u></b>"
+
+#: framework/customizer/options/options.favicon.php:32
+msgid "Retina iPhone Bookmark"
+msgstr "视网膜的iPhone的书签"
+
+#: framework/customizer/options/options.favicon.php:17
+msgid "Change your site's favicon, <b>Image must be <u>16x16px</u> or <u>32x32px</u>, format must be <u>.png</u></b>"
+msgstr "改变您的网站的图标，<b>图像必须为<u>16x16px</u>或<u>32x32px</u>，格式必须是<u>.png</u></b>"
+
+#: framework/customizer/options/options.favicon.php:14
+#: framework/customizer/options/options.sections.php:113
+msgid "Favicon"
+msgstr "网站图标"
+
+#: framework/customizer/options/options.comments.php:18
+msgid "Click to see comments"
+msgstr "点击查看评论"
+
+#: framework/customizer/options/classic/options.classic.php:95
+#: framework/customizer/options/flat/options.flat.php:136
+#: framework/customizer/options/material/options.material.php:56
+msgid "Link Color"
+msgstr "链接颜色"
+
+#: framework/customizer/options/classic/options.classic.php:73
+#: framework/customizer/options/flat/options.flat.php:114
+msgid "Primary Color"
+msgstr "主色调"
+
+#: framework/customizer/options/classic/options.classic.php:54
+#: framework/customizer/options/flat/options.flat.php:95
+#: framework/customizer/options/material/options.material.php:95
+msgid "Headings Link Color"
+msgstr "标题链接的颜色"
+
+#: framework/customizer/options/classic/options.classic.php:34
+#: framework/customizer/options/flat/options.flat.php:75
+#: framework/customizer/options/material/options.material.php:75
+msgid "Tagline Color"
+msgstr "标语的颜色"
+
+#: framework/customizer/options/classic/options.classic.php:15
+#: framework/customizer/options/flat/options.flat.php:15
+#: framework/customizer/options/material/options.material.php:15
+msgid "Header Background Color"
+msgstr "头部背景色"
+
+#: framework/customizer/customizer.php:55
+msgid "Display Tagline in Header"
+msgstr "在页眉显示标语"
+
+#: framework/comments.php:87
+msgid "Website"
+msgstr "站点"
+
+#: framework/comments.php:83
+msgid "Email (will not be published)"
+msgstr "电子邮件（不会被公开）"
+
+#: framework/comments.php:79 woocommerce/single-product-reviews.php:61
+msgid "Name"
+msgstr "姓名"
+
+#: framework/comments.php:70
+msgid "Comment"
+msgstr "条评论"
+
+#: framework/comments.php:68
+msgid "Submit Comment"
+msgstr "发表评论"
+
+#: framework/comments.php:59
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "要发表评论，您必须先<a href=\"%s\">登录</a>。"
+
+#: framework/comments.php:43 framework/comments.php:52
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: framework/comments.php:35
+msgid "Newer comments &rarr;"
+msgstr "较新评论 &rarr;"
+
+#: framework/comments.php:32
+msgid "&larr; Older comments"
+msgstr "&larr; 早期评论"
+
+#: framework/comments.php:18 framework/comments.php:21
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s 个评论"
+
+#: framework/comments.php:18 framework/comments.php:21
+msgid "View Comments"
+msgstr "查看评论"
+
+#: framework/comments/comment.php:9
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正等待审核。"
+
+#: framework/comments/comment.php:5
+msgid "(Edit)"
+msgstr "(编辑)"
+
+#: framework/comments/comment.php:4
+msgid "%1$s"
+msgstr "％1 $ S"
+
+#: footer.php:25 footer.php:32
+msgid "Back to top"
+msgstr "回到顶部"
+
+#: author.php:25
+msgid "This author hasn't added his/her bio."
+msgstr "作者没有添加他的个人简历。"
+
+#: 404.php:20 category.php:46 index.php:46
+msgid "Nothing's here."
+msgstr "这里没有什么东西。"
+
+#: 404.php:19 category.php:45 index.php:45
+msgid "404"
+msgstr "404"
+
+#. Author URI of the plugin/theme
+msgid "http://frenchtastic.eu/about"
+msgstr "http://frenchtastic.eu/about"
+
+#. Author of the plugin/theme
+msgid "frenchtastic"
+msgstr "frenchtastic"
+
+#. Theme URI of the plugin/theme
+msgid "http://frenchtastic.eu/theme/coeur"
+msgstr "http://frenchtastic.eu/theme/coeur"
